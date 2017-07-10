@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="message">Hello, Kotlin</string>
+    <string name="edit_text_hint">Calculate</string>
+    <string name="answer">0</string>
+</resources>

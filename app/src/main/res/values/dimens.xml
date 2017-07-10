@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_content_padding">20dp</dimen>
+    <dimen name="et_calculate">30dp</dimen>
+    <dimen name="tv_calculate_width">50dp</dimen>
+    <dimen name="tv_calculate_margin">20dp</dimen>
+    <dimen name="answer_padding">20dp</dimen>
+    <dimen name="container_padding">10dp</dimen>
+    <dimen name="answer_size">22sp</dimen>
+</resources>
